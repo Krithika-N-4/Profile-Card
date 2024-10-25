@@ -13,7 +13,7 @@ A simple and responsive Profile Card UI design using HTML, CSS, and Boxicons. Th
 
 ## Demo
 
-![Profile Card UI](./Profile.jpg)
+![Profile Card UI](./Profile-card-output.jpg)
 
 ## Tech Stack
 
