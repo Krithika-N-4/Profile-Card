@@ -33,4 +33,4 @@ A simple and responsive Profile Card UI design using HTML, CSS, and Boxicons. Th
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Krithika-N-4/profile-card-ui.git
+   git clone https://github.com/Krithika-N-4/Profile-Card.git
